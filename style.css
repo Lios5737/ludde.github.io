@@ -1,0 +1,63 @@
+
+
+
+
+
+
+body{
+    font-family: 'Pixelify Sans', cursive;
+    text-emphasis-color: black;
+   
+}
+
+h1{
+font-size: 50px;
+
+}
+
+header{
+   
+
+   
+    font-family: 'Pixelify Sans', cursive;
+    
+    
+ }
+
+     nav{
+font-size: 25px;
+height: 30  px;
+width: 7% ;
+border-radius: 10px;
+   }
+   
+   #container{
+    display:flex;
+   }
+
+
+   aside{
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 20%;
+   }
+
+
+main{
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+    width: 13,1%;
+    color: white;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+a {
+    color: rgb(2, 2, 2);
+  }
